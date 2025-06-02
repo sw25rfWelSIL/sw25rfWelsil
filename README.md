@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**sw25rfWelSIL/sw25rfWelsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou welber, um programador front end ,atualment estou aprendendo a criar projetos com htnl,css ,javascript e aprendendo react e typescript e mais sobre beck -end para me tornar um fullstack developer . Gosto de esta sempre atualizando no mercado 
 
-Here are some ideas to get you started:
+Minhas especialidades:
+<br>
+<br>
+.html
+<br>
+.css
+<br>
+.javascript
+<br>
+.react
+<br>
+.typescript
+<br>
+.node.js
+<br>
+[![Welber stats](https://github-readme-stats.vercel.app/api?username=sw25rfwelsil)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw25rfwelsil)](https://github.com/anuraghazra/github-readme-stats)
