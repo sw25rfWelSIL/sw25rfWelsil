@@ -2,7 +2,7 @@
 
 Sou welber, um programador front end ,atualment estou aprendendo a criar projetos com htnl,css ,javascript e aprendendo react e typescript e mais sobre beck -end para me tornar um fullstack developer . Gosto de esta sempre atualizando no mercado 
 
-Minhas especialidades:
+Tecnlogias especialista:
 <br>
 <br>
 .html
